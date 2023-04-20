@@ -1,0 +1,74 @@
+[
+    {
+        "precio": 30.00,
+        "id": 1,
+        "title": "Cacahuates con chile",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/81wQnpc52hL._AC_SL1500_.jpg"
+    },
+    {
+        "precio": 45.00,
+        "id": 2,
+        "title": "Cacahutes sin chile",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/81KEqbPamhL._AC_SL1500_.jpg"
+    },
+    {
+        "precio": 115.00,
+        "id": 3,
+        "title": "Cerveza",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/719IFtyZgQL._SL1000_.jpg"
+    },
+    {
+        "precio": 25.00,
+        "id": 4,
+        "title": "Sprite",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/71yeE7dJfJS._AC_SL1500_.jpg"
+    },
+    {
+        "precio": 45.00,
+        "id": 5,
+        "title": "Nesquik",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/71JYnV7wQIL._AC_SL1500_.jpg"
+    },
+    {
+        "precio": 55.00,
+        "id": 6,
+        "title": "Vino",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/71GcfQNslYL._AC_SL1500_.jpg"
+    },
+    {
+        "precio": 15.00,
+        "id": 7,
+        "title": "Sopa",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/51M3kITp9WL._AC_.jpg"
+    },
+    {
+        "precio": 45.00,
+        "id": 8,
+        "title": "Chocolate",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/71oxyNwkYwL._AC_SL1500_.jpg"
+    },
+    {
+        "precio":23.00,
+        "id": 9,
+        "title": "Salsa Buffalo",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/41fA+btRv-L._AC_.jpg"
+    },
+    {
+        "precio": 60.00,
+        "id": 10,
+        "title": "Mayonesa",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/71EgqImkABL._AC_SL1500_.jpg"
+    },
+    {
+        "precio": 35.00,
+        "id": 11,
+        "title": "MAZAPAN",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/81vNiQMDreL._AC_SL1500_.jpg"
+    },
+    {
+        "precio": 145.00,
+        "id": 12,
+        "title": "CAFE",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/61C+AtnISYS._AC_SL1000_.jpg"
+    }
+]
